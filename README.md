@@ -1056,7 +1056,7 @@ Educational/Research Use - Part of Software Security Lab
 
 ## 👤 Author
 
-**Software Security Lab (HPRCSE Group)**
+**Software Security Lab (HPRCSE Group Aditya Pillai(CS22B1063))**
 
 For questions, issues, or contributions:
 - Open an issue on the project repository
