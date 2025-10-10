@@ -1,0 +1,1090 @@
+{
+  "captured_at": "2025-10-10T05:18:37.625342Z",
+  "modules": [
+    {
+      "name": "snd_seq_dummy",
+      "size": 12288,
+      "addr": "0xffffffffc0fb7000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/core/seq/snd-seq-dummy.ko.xz",
+      "hash": "525bc04f9c684ef49b670467ed800a5095b4a4f0696dc2e9a668fecc2703c5e2",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "snd_hrtimer",
+      "size": 12288,
+      "addr": "0xffffffffc0f93000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/core/snd-hrtimer.ko.xz",
+      "hash": "e17b5404fd57977d07db99e1f991523e53b3b644178b1430633ee8009fdbb18e",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "snd_seq",
+      "size": 110592,
+      "addr": "0xffffffffc0f98000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/core/seq/snd-seq.ko.xz",
+      "hash": "a2db2c250e8a93ad588ac6b1c4cfe74c1904492bdf8a5387f05ad92cb06e3f1b",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "snd_seq_device",
+      "size": 16384,
+      "addr": "0xffffffffc0f8c000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/core/snd-seq-device.ko.xz",
+      "hash": "45a31109eab065c0d9096e4b23704a35bbfde9aa5c9773edc17be2b5c3c567f9",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "xt_conntrack",
+      "size": 12288,
+      "addr": "0xffffffffc0f7e000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/xt_conntrack.ko.xz",
+      "hash": "f42229435dc7093aec85ae7ab34197e2e69b0bd723902953c0b0afb319c1dad6",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "nft_chain_nat",
+      "size": 12288,
+      "addr": "0xffffffffc0f78000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/nft_chain_nat.ko.xz",
+      "hash": "4ce12b54c2cb48561b1db1a107d79f80b7c4e728bf44e7c707555db9786490e5",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "xt_MASQUERADE",
+      "size": 16384,
+      "addr": "0xffffffffc0f80000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/xt_MASQUERADE.ko.xz",
+      "hash": "7a1a4ef02cf85f068c5e5be1a9448f084703e2c912a2dfc20aefd941e52e12e5",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "nf_nat",
+      "size": 65536,
+      "addr": "0xffffffffc0f64000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/nf_nat.ko.xz",
+      "hash": "00bc0d36a641dc32e75c6d0cba66a1ee573f160d092f80fd30e8d5fd5e22bebd",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "nf_conntrack_netlink",
+      "size": 61440,
+      "addr": "0xffffffffc0f53000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/nf_conntrack_netlink.ko.xz",
+      "hash": "36c6d3eda323f25cf6ccc22ee304f5593ca2a5620b5bb1c6c310e143c00ecf9d",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "nf_conntrack",
+      "size": 204800,
+      "addr": "0xffffffffc0f1f000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/nf_conntrack.ko.xz",
+      "hash": "1f9dff3199ebbbc800e7905feb8451fd84d3af7b9d7a0d5c7d2f1c1e971c0975",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "nf_defrag_ipv6",
+      "size": 24576,
+      "addr": "0xffffffffc0f15000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/ipv6/netfilter/nf_defrag_ipv6.ko.xz",
+      "hash": "2b2566c7a4124494a9dc6fa692edbb476d4ac1718cf2a79c69fad3a344d7a98a",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "nf_defrag_ipv4",
+      "size": 12288,
+      "addr": "0xffffffffc0ef6000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/ipv4/netfilter/nf_defrag_ipv4.ko.xz",
+      "hash": "1c717fe96f9d6e77cc886afe7be4e2db226823169e426105c6f4758eef50adfd",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "xfrm_user",
+      "size": 69632,
+      "addr": "0xffffffffc0ef9000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/xfrm/xfrm_user.ko.xz",
+      "hash": "44329c176474a77272dd86e4946e2760ca955ec727e3847f857f0a8ff9c9d2fd",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "xfrm_algo",
+      "size": 16384,
+      "addr": "0xffffffffc0e83000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/xfrm/xfrm_algo.ko.xz",
+      "hash": "fb9919373ca2324f411b439c9cc7a2d86479b37720b82350281198f8fd95b439",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "xt_addrtype",
+      "size": 12288,
+      "addr": "0xffffffffc0e7d000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/xt_addrtype.ko.xz",
+      "hash": "a4472d19cdecb1680640889eb7b479a9e1b8ef502b8659bf334f140ba6cdfd5f",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "nft_compat",
+      "size": 20480,
+      "addr": "0xffffffffc0e75000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/nft_compat.ko.xz",
+      "hash": "6c685f577fa83fa3dacde2cf25bd5b2c116236533892b5911862d75dbfb0529c",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "nf_tables",
+      "size": 380928,
+      "addr": "0xffffffffc0e92000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/nf_tables.ko.xz",
+      "hash": "76857ed8c5fdb836999afc0d30c34b161982bceff2188f82cdd893be7d6c16b3",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "libcrc32c",
+      "size": 12288,
+      "addr": "0xffffffffc0e05000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/lib/libcrc32c.ko.xz",
+      "hash": "95f2f399658e3b87032322602eb3effd83a9449f7ec7af86987a8f03d193b782",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "br_netfilter",
+      "size": 36864,
+      "addr": "0xffffffffc0e85000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/bridge/br_netfilter.ko.xz",
+      "hash": "8c2fda801798ca6aa56574b41cce2411cd5afec56e4067c10dab1765ee89ec31",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "bridge",
+      "size": 389120,
+      "addr": "0xffffffffc0e0e000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/bridge/bridge.ko.xz",
+      "hash": "aeb3b5478e4605a642adaf049e248f738f8c2df8fe5101aa4bed0064c066624d",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "stp",
+      "size": 12288,
+      "addr": "0xffffffffc0e08000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/802/stp.ko.xz",
+      "hash": "48912d1e86628416c0e2ba323963e34ea923494f239a0523870c2959007f4d91",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "llc",
+      "size": 16384,
+      "addr": "0xffffffffc0dfc000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/llc/llc.ko.xz",
+      "hash": "727fa7b62ec5024c6f0d7bbd7283eda31fb06eb6ea925bab5e0fdce2c2a1c725",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "snd_intel8x0",
+      "size": 49152,
+      "addr": "0xffffffffc0dec000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/pci/snd-intel8x0.ko.xz",
+      "hash": "f253c7e35730fb5b60629df57f5a557ddcd43f7ccdc160182fb417bc5bd5888a",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "snd_ac97_codec",
+      "size": 196608,
+      "addr": "0xffffffffc0dc6000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/pci/ac97/snd-ac97-codec.ko.xz",
+      "hash": "49108dffc7aa0a837f90a4a791212c7a444052b4f0a668123b6d47313f3bd260",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "intel_rapl_msr",
+      "size": 20480,
+      "addr": "0xffffffffc0d6b000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/powercap/intel_rapl_msr.ko.xz",
+      "hash": "d4ede895e1d9ba2021197be5956c789e1554ebf892bf367961937307d879d228",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ac97_bus",
+      "size": 12288,
+      "addr": "0xffffffffc0d65000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/ac97_bus.ko.xz",
+      "hash": "29b45676f9665a4114fa5e735b1fb3cb797274df0a80175efb787ecaeef1f41a",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "snd_pcm",
+      "size": 188416,
+      "addr": "0xffffffffc0d96000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/core/snd-pcm.ko.xz",
+      "hash": "d7f4362ae490d3cdd1872456036d2690799d199dab1598315ae0291ecb78e43f",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "snd_timer",
+      "size": 53248,
+      "addr": "0xffffffffc0d6e000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/core/snd-timer.ko.xz",
+      "hash": "85d24bef348285c6c765c1da8d15aafcf25280b71948b934d1ada441ca5f594b",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "intel_rapl_common",
+      "size": 53248,
+      "addr": "0xffffffffc0d2e000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/powercap/intel_rapl_common.ko.xz",
+      "hash": "852703710f0226cde1aa65bbc93ae63062d95cba10de8ac91950da24ef6fe712",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "snd",
+      "size": 151552,
+      "addr": "0xffffffffc0d3a000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/core/snd.ko.xz",
+      "hash": "d851baf741d4094172bd33a4d587a1396f253183cef1b5764c207561225abd77",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "soundcore",
+      "size": 16384,
+      "addr": "0xffffffffc0d27000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/sound/soundcore.ko.xz",
+      "hash": "d41a02a76c9715a5241f2c56a86568ceca55f190f073d20cf4b706576664c083",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "pcspkr",
+      "size": 12288,
+      "addr": "0xffffffffc0d1d000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/input/misc/pcspkr.ko.xz",
+      "hash": "665b01cffde26862b023d1f9472a09b048713d33b3947e3051b926e783b3043e",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "joydev",
+      "size": 24576,
+      "addr": "0xffffffffc0d13000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/input/joydev.ko.xz",
+      "hash": "537909ae59ea94ab9cccdd5dbbf3d5abdbb27fdc36a7c78159a251c6cca5e312",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "overlay",
+      "size": 217088,
+      "addr": "0xffffffffc0cda000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/fs/overlayfs/overlay.ko.xz",
+      "hash": "07679daf06fcb217510dc3865d1b3bcede737d3c9a7279be1f36f6fa92d41ee6",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ac",
+      "size": 16384,
+      "addr": "0xffffffffc0cb7000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/acpi/ac.ko.xz",
+      "hash": "28a3f2bda6ce14b3b2152368249a6de7edd936fdf2d7b8cbee50b8a80284acb8",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "rfkill",
+      "size": 40960,
+      "addr": "0xffffffffc0cb3000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/rfkill/rfkill.ko.xz",
+      "hash": "c098c2b2fbf6688dbb1e84768762a46bface5125657a6837e040580d73988663",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "qrtr",
+      "size": 57344,
+      "addr": "0xffffffffc0cb9000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/qrtr/qrtr.ko.xz",
+      "hash": "88b9c78ad2881f848c5029b8fe2a7004a7ad607a3a655e1ac20ddf31917f44f9",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "sg",
+      "size": 45056,
+      "addr": "0xffffffffc0ca4000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/scsi/sg.ko.xz",
+      "hash": "d89122d052499f3d7b0f6ce489c05922b69f010e547e7a582eed6ebafb31dd87",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "evdev",
+      "size": 28672,
+      "addr": "0xffffffffc0c9a000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/input/evdev.ko.xz",
+      "hash": "64ba517f1d05ed76777ec802284873b3e96bdf1c668b010aa91dd438a9649342",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "vboxsf",
+      "size": 102400,
+      "addr": "0xffffffffc0c7d000",
+      "file": "/lib/modules/6.12.38+kali-amd64/misc/vboxsf.ko",
+      "hash": "b666bb6c592d6842c6ae75eac5d7340f7b0dd802de4556817abf60086aead88b",
+      "elf_sections": [
+        ".note.gnu.pr[...]",
+        ".note.gnu.bu[...]",
+        ".note.Linux",
+        ".orc_header",
+        ".text",
+        ".rela.text",
+        ".text.unlikely",
+        ".rela.text.u[...]",
+        ".exit.text",
+        ".rela.exit.text",
+        ".init.text",
+        ".rela.init.text",
+        ".rodata",
+        ".rela.rodata",
+        ".rodata.str1.8",
+        ".rela__mcount_loc",
+        ".rodata.str1.1",
+        ".modinfo",
+        ".rela__param",
+        ".smp_locks",
+        ".rela.smp_locks",
+        ".retpoline_sites",
+        ".rela.retpol[...]",
+        ".return_sites",
+        ".rela.return[...]",
+        ".call_sites",
+        ".rela.call_sites",
+        ".ibt_endbr_seal",
+        ".rela.ibt_en[...]",
+        ".orc_unwind",
+        ".orc_unwind_ip",
+        ".rela.orc_un[...]",
+        ".rela__bug_table",
+        ".rela__jump_table",
+        ".rela__patch[...]",
+        ".data",
+        ".rela.data",
+        ".exit.data",
+        ".rela.exit.data",
+        ".init.data",
+        ".rela.init.data",
+        ".static_call[...]",
+        ".rela.static[...]",
+        ".gnu.linkonc[...]",
+        ".rela.gnu.li[...]",
+        ".bss",
+        ".note.GNU-stack",
+        ".comment",
+        ".debug_aranges",
+        ".rela.debug_[...]",
+        ".debug_info",
+        ".rela.debug_info",
+        ".debug_abbrev",
+        ".debug_line",
+        ".rela.debug_line",
+        ".debug_frame",
+        ".rela.debug_frame",
+        ".debug_str",
+        ".debug_line_str",
+        ".debug_loclists",
+        ".debug_rnglists",
+        ".BTF",
+        ".BTF.base",
+        ".symtab",
+        ".strtab",
+        ".shstrtab"
+      ],
+      "compiler": "GCC: (Debian 14.2.0-19) 14.2.0"
+    },
+    {
+      "name": "vboxguest",
+      "size": 507904,
+      "addr": "0xffffffffc0bfd000",
+      "file": "/lib/modules/6.12.38+kali-amd64/misc/vboxguest.ko",
+      "hash": "047d35f848e954f5a4f25cd1d63161633f7ee6d2db59cd3cad34c4873f896a1b",
+      "elf_sections": [
+        ".rela__ksymtab",
+        ".altinstructions",
+        ".rela.altins[...]",
+        ".rodata",
+        ".rela.rodata",
+        ".rela__mcount_loc",
+        ".rodata.str1.1",
+        ".rodata.str1.8",
+        ".modinfo",
+        ".rela__param",
+        ".rodata.cst2",
+        ".relaruntime[...]",
+        ".smp_locks",
+        ".rela.smp_locks",
+        ".rela__ex_table",
+        ".retpoline_sites",
+        ".rela.retpol[...]",
+        ".return_sites",
+        ".rela.return[...]",
+        ".call_sites",
+        ".rela.call_sites",
+        ".ibt_endbr_seal",
+        ".rela.ibt_en[...]",
+        ".orc_unwind",
+        ".orc_unwind_ip",
+        ".rela.orc_un[...]",
+        ".note.gnu.pr[...]",
+        ".note.gnu.bu[...]",
+        ".note.Linux",
+        ".orc_header",
+        ".text",
+        ".rela.text",
+        ".text.unlikely",
+        ".rela.text.u[...]",
+        ".exit.text",
+        ".rela.exit.text",
+        ".init.text",
+        ".rela.init.text",
+        ".altinstr_re[...]",
+        ".fixup",
+        ".rela.fixup",
+        ".altinstr_aux",
+        ".rela__bug_table",
+        ".rela__jump_table",
+        ".rela__patch[...]",
+        ".data",
+        ".rela.data",
+        ".exit.data",
+        ".rela.exit.data",
+        ".init.data",
+        ".rela.init.data",
+        ".data..once",
+        ".static_call[...]",
+        ".rela.static[...]",
+        ".gnu.linkonc[...]",
+        ".rela.gnu.li[...]",
+        ".bss",
+        ".note.GNU-stack",
+        ".comment",
+        ".debug_aranges",
+        ".rela.debug_[...]",
+        ".debug_info",
+        ".rela.debug_info",
+        ".debug_abbrev",
+        ".debug_line",
+        ".rela.debug_line",
+        ".debug_frame",
+        ".rela.debug_frame",
+        ".debug_str",
+        ".debug_line_str",
+        ".debug_loclists",
+        ".debug_rnglists",
+        ".BTF",
+        ".BTF.base",
+        ".symtab",
+        ".strtab",
+        ".shstrtab"
+      ],
+      "compiler": "GCC: (Debian 14.2.0-19) 14.2.0"
+    },
+    {
+      "name": "sunrpc",
+      "size": 872448,
+      "addr": "0xffffffffc0b24000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/sunrpc/sunrpc.ko.xz",
+      "hash": "357996cdc3d9a59443dae4dc8b3cacff5e428a9634f1fbbeb8c4f64f49c05727",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "binfmt_misc",
+      "size": 28672,
+      "addr": "0xffffffffc0b1b000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/fs/binfmt_misc.ko.xz",
+      "hash": "a3082165bfb111dbf0f172091c792ea5fe96538bfe16d942d54212dd3d1b64dd",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "configfs",
+      "size": 69632,
+      "addr": "0xffffffffc0b06000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/fs/configfs/configfs.ko.xz",
+      "hash": "133e1f3b933633094ec9dc9dc8342e79b53ae8ee45e617596945889b322020ef",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "efi_pstore",
+      "size": 12288,
+      "addr": "0xffffffffc0afe000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/firmware/efi/efi-pstore.ko.xz",
+      "hash": "2e9f31bbe1376bf328ead602287d3f576853b67f4d64aeb476e96d3f9faaaa07",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "nfnetlink",
+      "size": 20480,
+      "addr": "0xffffffffc0aef000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/nfnetlink.ko.xz",
+      "hash": "7b81bc258a3b1dfe4421e444b46a57573a69853dd615d723604d9c9cb7521c98",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "vsock_loopback",
+      "size": 12288,
+      "addr": "0xffffffffc0af6000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/vmw_vsock/vsock_loopback.ko.xz",
+      "hash": "90ac562e826d194d4ed5fa1db41f6f4fc2fa04eae5844d0baea09a5b25b43013",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "vmw_vsock_virtio_transport_common",
+      "size": 61440,
+      "addr": "0xffffffffc0a83000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/vmw_vsock/vmw_vsock_virtio_transport_common.ko.xz",
+      "hash": "5c174f8c5990886f6147c632e8b1da3f82415c2b162df80cf12bb14ba6123e22",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "vmw_vsock_vmci_transport",
+      "size": 45056,
+      "addr": "0xffffffffc0ae1000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/vmw_vsock/vmw_vsock_vmci_transport.ko.xz",
+      "hash": "f4c989bd278d0aa72b9c6a85304b53f4960b660e86058097c6694c24a3a333cc",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "vsock",
+      "size": 61440,
+      "addr": "0xffffffffc0ac9000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/vmw_vsock/vsock.ko.xz",
+      "hash": "747e5e0bca1f9e38e610eaa0db8d4eabb9a72dbb0793a7d3da242e7721206e7c",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "vmw_vmci",
+      "size": 110592,
+      "addr": "0xffffffffc0aac000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/misc/vmw_vmci/vmw_vmci.ko.xz",
+      "hash": "27d90f10e0af44a895b176684ad1e69965080e8b117ae327d28241ecf68a8c98",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ip_tables",
+      "size": 28672,
+      "addr": "0xffffffffc0aa1000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/ipv4/netfilter/ip_tables.ko.xz",
+      "hash": "9a5ce09e38263229932e13138e7542d1d983d182c6b1fd87d11e80062358f725",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "x_tables",
+      "size": 53248,
+      "addr": "0xffffffffc0a88000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/net/netfilter/x_tables.ko.xz",
+      "hash": "c08053821feeb134b3d3d27936167a6bf7f5db7921ee7ff327605661ecbd54ea",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "autofs4",
+      "size": 57344,
+      "addr": "0xffffffffc094c000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/fs/autofs/autofs4.ko.xz",
+      "hash": "c47deacb0f0db12bb7509c357f1870322ba739c7bf517334751bfc7de69087a8",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ext4",
+      "size": 1142784,
+      "addr": "0xffffffffc096a000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/fs/ext4/ext4.ko.xz",
+      "hash": "b453ff927bbbe2595a2fcff657d7e8d54c96825d7441d3ba8dba5a9060047968",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "crc16",
+      "size": 12288,
+      "addr": "0xffffffffc0964000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/lib/crc16.ko.xz",
+      "hash": "53fa832768179f60310c0dc2a4ad06dc4cfcf9e17419b767343b93e3ecc8f991",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "mbcache",
+      "size": 16384,
+      "addr": "0xffffffffc083a000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/fs/mbcache.ko.xz",
+      "hash": "a54fde69d886a5c30790826baf8ac8e4b22a2d3ccfc14da051f2367a8c489170",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "jbd2",
+      "size": 200704,
+      "addr": "0xffffffffc0919000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/fs/jbd2/jbd2.ko.xz",
+      "hash": "041782707d11f0239d65b8c7f12b4a94de2d4f0e950fe728ba3fa28a3effbecd",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "crc32c_generic",
+      "size": 12288,
+      "addr": "0xffffffffc0743000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/crypto/crc32c_generic.ko.xz",
+      "hash": "6718a0303d3d1699084fb270fd38c848e7ea65de8e2c1fa3bb2feacf7a0168c3",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "hid_generic",
+      "size": 12288,
+      "addr": "0xffffffffc0616000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/hid/hid-generic.ko.xz",
+      "hash": "5cab1763a5977c2ee7702a3374862f2f076e65eec60c21cc1f584e89eca327f5",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "usbhid",
+      "size": 77824,
+      "addr": "0xffffffffc084f000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/hid/usbhid/usbhid.ko.xz",
+      "hash": "d6ce2810606b98cc9c556c764bb488d36bd11ebce4fceb339a5a6778e92c0405",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "hid",
+      "size": 262144,
+      "addr": "0xffffffffc08cb000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/hid/hid.ko.xz",
+      "hash": "65f84875fc897e346bc7c8bcd4d5d82ffc98353269f5c2e4be20d38c317a82d7",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "vmwgfx",
+      "size": 471040,
+      "addr": "0xffffffffc086e000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/gpu/drm/vmwgfx/vmwgfx.ko.xz",
+      "hash": "3de2507489118fae676d2fdde888e96fe981bfab6a5b3aced64877c17837806e",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "sr_mod",
+      "size": 28672,
+      "addr": "0xffffffffc0509000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/scsi/sr_mod.ko.xz",
+      "hash": "6a3d4178b6ecb8a105c160dc2255277c28beafa88bf4c42c81381bd3e978e116",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "cdrom",
+      "size": 81920,
+      "addr": "0xffffffffc0858000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/cdrom/cdrom.ko.xz",
+      "hash": "049449175cf7368517ed20a84d37689cb556f560fcc7df702b0d54aa9dd10384",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "drm_ttm_helper",
+      "size": 16384,
+      "addr": "0xffffffffc061f000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/gpu/drm/drm_ttm_helper.ko.xz",
+      "hash": "5f4a657afbaa3bd54678e6929078b152f6d67566f3fa84323c799b6f1bd47c51",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "sd_mod",
+      "size": 81920,
+      "addr": "0xffffffffc083e000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/scsi/sd_mod.ko.xz",
+      "hash": "156930f8e8d17dd28e653afa3eff77137a5a832297494cf3700a35cb89f7fd41",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ttm",
+      "size": 106496,
+      "addr": "0xffffffffc07bf000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/gpu/drm/ttm/ttm.ko.xz",
+      "hash": "ce1cf8eb3c0c00fde0d0cbcfb7681d6edcd3b2aa87bfc50fe48db159b8731a94",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ata_generic",
+      "size": 12288,
+      "addr": "0xffffffffc0603000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/ata/ata_generic.ko.xz",
+      "hash": "6f75ad8cb915c33a0011033c6c55ba7d18c024e88f32e4d8cebc5162dff3f8ed",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ahci",
+      "size": 49152,
+      "addr": "0xffffffffc0729000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/ata/ahci.ko.xz",
+      "hash": "b099d15ad9e552ceedd122e755cbb7bd40f81d75729e763969776e4e7a1c14ae",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "libahci",
+      "size": 61440,
+      "addr": "0xffffffffc0723000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/ata/libahci.ko.xz",
+      "hash": "ae3a75d9c77a34f5c26ce29040909ba39f2355107db59372310f0d984168e4b2",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "drm_kms_helper",
+      "size": 253952,
+      "addr": "0xffffffffc06f3000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/gpu/drm/drm_kms_helper.ko.xz",
+      "hash": "e74ad182d63184726394e334dcbb47b26cbee3f61f0b36bdd08f097223e72ec3",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ata_piix",
+      "size": 45056,
+      "addr": "0xffffffffc062d000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/ata/ata_piix.ko.xz",
+      "hash": "a1ef982ffbcc8e53b795db2ef7d946a755af0b73bce755245fa23b0c357e994d",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "libata",
+      "size": 462848,
+      "addr": "0xffffffffc0745000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/ata/libata.ko.xz",
+      "hash": "e78eabd00720599ce13ef36441b321dde9392447e48644652aa6337de53dc8b8",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "crct10dif_pclmul",
+      "size": 12288,
+      "addr": "0xffffffffc0621000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/arch/x86/crypto/crct10dif-pclmul.ko.xz",
+      "hash": "0be4a10015513e712f1503c14f80621bb5ef201e103e1c3266cbe3d20cfc1a9e",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "crc32_pclmul",
+      "size": 12288,
+      "addr": "0xffffffffc0610000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/arch/x86/crypto/crc32-pclmul.ko.xz",
+      "hash": "a174908e65bd49d75624bca977a877a822cac89d713e7bb68ee087c227e2f855",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "crc32c_intel",
+      "size": 16384,
+      "addr": "0xffffffffc0605000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/arch/x86/crypto/crc32c-intel.ko.xz",
+      "hash": "6c3198cc08cbfc2f8e36a74eee9a4444ca24b238a1ec916645d08812e6e9361a",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ghash_clmulni_intel",
+      "size": 16384,
+      "addr": "0xffffffffc0515000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/arch/x86/crypto/ghash-clmulni-intel.ko.xz",
+      "hash": "ec7f0b7b17842cdc717139a20779628a8c727082985e75c99d690bbdb62ebdda",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "sha512_ssse3",
+      "size": 53248,
+      "addr": "0xffffffffc072d000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/arch/x86/crypto/sha512-ssse3.ko.xz",
+      "hash": "99546d587082a4a1ac63869d54cd991b44cf784ad2b4b23b12bc092cd0e25565",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "drm",
+      "size": 774144,
+      "addr": "0xffffffffc0634000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/gpu/drm/drm.ko.xz",
+      "hash": "d5799e906bc0395752b1f8530e936f399155447dd222ab8e90065e1882686a30",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ohci_pci",
+      "size": 20480,
+      "addr": "0xffffffffc0624000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/usb/host/ohci-pci.ko.xz",
+      "hash": "6c44e3e4bb151bc3dd99cf1396d070d586a4d255f7e2e542231cfcb4fb5d9d25",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "sha256_ssse3",
+      "size": 32768,
+      "addr": "0xffffffffc0618000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/arch/x86/crypto/sha256-ssse3.ko.xz",
+      "hash": "62adbb66ee9850b8dc71af5fdb137d03fce3b041ddd114d177e03c1143378426",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ehci_pci",
+      "size": 16384,
+      "addr": "0xffffffffc04c5000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/usb/host/ehci-pci.ko.xz",
+      "hash": "8f4f53d21bf4d84d78d81cd3ae2b9e1be93db55bbad013bfaf005c3352894f70",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "scsi_mod",
+      "size": 327680,
+      "addr": "0xffffffffc05af000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/scsi/scsi_mod.ko.xz",
+      "hash": "5703e482f66716e7b713f8cbd396a02ff34128582986e16e226d5b495f042e83",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "sha1_ssse3",
+      "size": 32768,
+      "addr": "0xffffffffc057c000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/arch/x86/crypto/sha1-ssse3.ko.xz",
+      "hash": "5154b2b7cee9bc886c00919890d0fc5bf00f4ebfeff8c40d79948b1dfabdb195",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ehci_hcd",
+      "size": 110592,
+      "addr": "0xffffffffc058c000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/usb/host/ehci-hcd.ko.xz",
+      "hash": "837d8c853f292b986213b80866270115a455dd6e6eb682a7403f29ef9fc0e32a",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "psmouse",
+      "size": 217088,
+      "addr": "0xffffffffc0543000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/input/mouse/psmouse.ko.xz",
+      "hash": "26d038f74a904795ac795edf1ddc02aba366cadd4bef334f528b6911d382c8a5",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "aesni_intel",
+      "size": 122880,
+      "addr": "0xffffffffc0521000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/arch/x86/crypto/aesni-intel.ko.xz",
+      "hash": "e19db62342b7a7acd9c9a7fe35cf59658dd2348118e39ed9ad67932e07e180f3",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "gf128mul",
+      "size": 16384,
+      "addr": "0xffffffffc0518000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/lib/crypto/gf128mul.ko.xz",
+      "hash": "4518f4ac4e5e3476428dcea7acd622a722624deba4fbfa82608ece6ffcb2e426",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "crypto_simd",
+      "size": 16384,
+      "addr": "0xffffffffc0496000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/crypto/crypto_simd.ko.xz",
+      "hash": "12d19e2aace56db699181d20da6bcedd3ea48460c05f44b658523aeb6d22c47a",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "e1000",
+      "size": 180224,
+      "addr": "0xffffffffc04db000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/net/ethernet/intel/e1000/e1000.ko.xz",
+      "hash": "8351f47bd482faceaa0f36d96f38cf1c7aa57989d61e430881e517099cf8db35",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "cryptd",
+      "size": 28672,
+      "addr": "0xffffffffc0426000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/crypto/cryptd.ko.xz",
+      "hash": "3171f2ab855434c35e90191518181bf3b553055f4c82008ab706667616e5545e",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "video",
+      "size": 81920,
+      "addr": "0xffffffffc049d000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/acpi/video.ko.xz",
+      "hash": "855081d631f432e4bd32f6e21bd3c6ac8421076737e5f3980d7ff53cf008c8e6",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "ohci_hcd",
+      "size": 65536,
+      "addr": "0xffffffffc0413000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/usb/host/ohci-hcd.ko.xz",
+      "hash": "cb0e43d4b9b13d00f74d91443aa85588fa61c3f07a73ef566a40de9f854e22db",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "serio_raw",
+      "size": 16384,
+      "addr": "0xffffffffc04bd000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/input/serio/serio_raw.ko.xz",
+      "hash": "b06bf9e718e1d8e62b764310dd4be8932bf7d152bd00c72bc31d19ed000ead4e",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "wmi",
+      "size": 28672,
+      "addr": "0xffffffffc04af000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/platform/x86/wmi.ko.xz",
+      "hash": "893a7674cf88645d91677955a7b273d93a075a1d875373c9b4aff0cab01a3522",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "usbcore",
+      "size": 409600,
+      "addr": "0xffffffffc042b000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/usb/core/usbcore.ko.xz",
+      "hash": "42c8942687822a62631528d5470f6d86ed446e87001c02732c3193ce3d7ba9a8",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "i2c_piix4",
+      "size": 28672,
+      "addr": "0xffffffffc041b000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/i2c/busses/i2c-piix4.ko.xz",
+      "hash": "b4691e940933291ea889e091241a1fbd9de35e114bfd07f52914a1b5c2579929",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "battery",
+      "size": 28672,
+      "addr": "0xffffffffc03e3000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/acpi/battery.ko.xz",
+      "hash": "857015382645f521acf77413450233479acc4a08523e6f3ef0f85d2dd47576e6",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "button",
+      "size": 24576,
+      "addr": "0xffffffffc03fe000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/acpi/button.ko.xz",
+      "hash": "9207ba165ecb720860fcd2ca125810e8ff22aff31b1175f972226f9dccb75755",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "i2c_smbus",
+      "size": 16384,
+      "addr": "0xffffffffc03f2000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/i2c/i2c-smbus.ko.xz",
+      "hash": "9903bd752d41e1c8ace31c547352def1fb29e36858fcdef420295d69e9ad9fed",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "scsi_common",
+      "size": 16384,
+      "addr": "0xffffffffc03e8000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/scsi/scsi_common.ko.xz",
+      "hash": "f222a197ea27dc82670751c8aa3ded2597d9d6cfcc840557a74738aedc863594",
+      "elf_sections": [],
+      "compiler": null
+    },
+    {
+      "name": "usb_common",
+      "size": 16384,
+      "addr": "0xffffffffc03dc000",
+      "file": "/lib/modules/6.12.38+kali-amd64/kernel/drivers/usb/common/usb-common.ko.xz",
+      "hash": "00ec45e1461e6150748f99b97b4727ba28ab522583e5be94ac65865a15af2293",
+      "elf_sections": [],
+      "compiler": null
+    }
+  ],
+  "syscalls": {
+    "sys_call_table": "ffffffffa9c00360",
+    "__x64_sys_execve": "ffffffffa904ab00",
+    "sys_execve": null,
+    "__x64_sys_open": "ffffffffa9039da0",
+    "sys_open": null,
+    "__x64_sys_openat": "ffffffffa9039f00",
+    "sys_openat": null,
+    "__x64_sys_read": "ffffffffa903de60",
+    "__x64_sys_write": "ffffffffa903dfc0",
+    "sys_read": null,
+    "sys_write": null
+  }
+}
