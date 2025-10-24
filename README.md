@@ -1083,7 +1083,6 @@ KMIM provides a powerful, safe, and efficient way to monitor kernel module integ
 4. Integrate with your SIEM/monitoring stack
 5. Develop incident response procedures for alerts
 
-**Stay secure!** 🛡️
 
 ---
 
